@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Сторінка з фігурами</title>
+</head>
+<body>
+    <div style="width: 200px; height: 200px; background-color: blue;"></div>
+    <div style="width: 150px; height: 150px; border-radius: 50%; background-color: red;"></div>
+    <div style="width: 0; height: 0; border-left: 50px solid transparent; border-right: 50px solid transparent; border-bottom: 100px solid green;"></div>
+</body>
+</html>
